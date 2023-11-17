@@ -22,7 +22,7 @@ Follow these simple steps to get started with [Your Project Name]:
    ```bash
    git clone https://github.com/haiderali780/NotesApp-React-Typescript.git
    cd your-repo
-### Install Dependencies:
+### Install Dependencies/Run:
 ```bash
 npm install
 npm start
