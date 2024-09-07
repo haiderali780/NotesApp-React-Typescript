@@ -27,4 +27,9 @@ Follow these simple steps to get started with [Your Project Name]:
 npm install
 npm start
 
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this repository, please fork the repository, make your changes, and submit a pull request.
+
+
 
